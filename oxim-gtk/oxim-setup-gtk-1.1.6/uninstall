@@ -1,0 +1,6 @@
+#! /bin/bash
+make clean
+rm oxim-setup-gtk
+echo ""
+echo "Uninstall is complete!!"
+echo ""

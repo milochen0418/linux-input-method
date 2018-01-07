@@ -1,0 +1,10 @@
+#! /bin/bash
+make clean
+make all
+cp main oxim-setup-gtk
+rm main
+echo ""
+echo "Install complete!"
+echo ""
+echo "Execution file is named oxim-setup"
+echo ""

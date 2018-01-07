@@ -1,0 +1,22 @@
+The execution file is named "oxim-setup"
+After you install done, your could find it.
+
+
+The following two command is express how to install and uninstall the software...
+
+
+COMMAND: ./install
+	To use the command  ./install  ,and then you could complete to install.
+	After install done, you could exeucte the execution file 'oxim-setup'
+
+COMMAND: ./unstall
+	To use the command ./unstall  ,and then you coulde complete to uninstall.
+	After uninstall done, your execution file and any object file is be killed.
+
+
+CAUSION:
+	Don't move the exeuction file's position after install over.
+	Don't kill any file in where ./gui ./include and ./src.
+
+
+

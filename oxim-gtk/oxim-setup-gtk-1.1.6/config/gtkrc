@@ -1,0 +1,8 @@
+gtk-theme-name = "TechniX"
+gtk-icon-theme-name = "Fosicon"
+style "user-font"
+{
+	font_name = "AR PL New Sung 10"
+}
+widget_class "*" style "user-font"
+gtk-font-name="AR PL New Sung 10"
